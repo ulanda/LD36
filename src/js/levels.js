@@ -113,6 +113,9 @@ var LevelArray = [
     {result: 5,  map:level0},
     {result: 10, map:level1},
     {result: 15, map:level2},
+    {result: 7,  map:level0},
+    {result: 11, map:level1},
+    {result: 15, map:level0},
 ];
     
 module.exports = LevelArray;

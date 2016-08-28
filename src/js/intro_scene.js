@@ -9,18 +9,16 @@ var intro0 = [
   [1,"TECHNOLOGY, knowelge and magic!!"],
   [1,""],
   [1,""],
-  [1,"There was an ANTICENT chaman, who predicted our end...."],
+  [1,"There was an ANTICENT shaman, who predicted our end...."],
   [1,""],
   [1,""],
   [1,"I don't know when the next war is goig to be..."],
   [1,""],
   [1,"But whay I can tell you NOW is that the after that,"],
-  [1,"will be using our bare hands..."],
+  [1,"will be using our bare hands... he said."],
   [1,""],
-  [1,"............ he said."],
+  [1,"His name was Einstein, Albert Einstein..."],
   [1,""],
-  [1,"His name was Einstein..."],
-  [1,""]
 ];
 
 var intro1 = [
