@@ -1,6 +1,6 @@
-# zhorlackLD36
+# The Ancient Shaman
 
-zhorlackLD36 by
+The Ancient Shaman by
 [ulanda](https://github.com/ulanda).
 
 Initial scaffolding generated with [generator-gamejam](https://github.com/belen-albeza/generator-gamejam/).
