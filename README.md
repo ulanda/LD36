@@ -1,5 +1,16 @@
 # The Ancient Shaman
+Hi, this is my first Jam, it has been a great experience, I'm happy just being able to do "something". 
 
+I tried to make an "educational" game that would help you to learn binary. 
+
+All of you already know binary so it should be easy for you to beat :) 
+
+My lack of gfx skills is a mayor problem for this category, but I like the idea of improving on that in the future. 
+
+I'm not done yet as I'll try to extend the tutorial a bit more and is possible I would like to add some kind of "enemies" that difficult your movements... 
+
+This time sound is totally out off scope :-( 
+    
 The Ancient Shaman by
 [ulanda](https://github.com/ulanda).
 
